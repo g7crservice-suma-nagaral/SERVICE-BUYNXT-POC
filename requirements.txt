@@ -2,3 +2,8 @@ fastapi
 uvicorn
 python-dotenv
 openai
+azure-storage-blob
+azure-ai-formrecognizer
+azure-core
+python-multipart
+ 
